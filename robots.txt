@@ -1,0 +1,14 @@
+# Robots.txt for Édouard Commerce
+# Allow all crawlers to access the site
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://edouard-commerce.com/sitemap.xml
+
+# Crawl-delay for polite crawling (optional)
+Crawl-delay: 10
+
+# Disallow admin or private areas (none currently)
+# Disallow: /admin/
+# Disallow: /private/
